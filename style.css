@@ -1,0 +1,37 @@
+.body{ 
+position: fixed;
+align-items: center;
+background-color: #fbf7ed;
+}
+.header{
+    color: #6b7177;
+    font: 20px;
+    font-family: sans-serif;
+    padding: 0px 90.9px;
+    align-items: center;
+}
+.bar{
+    font: 21.25px;
+    font-family: sans-serif;
+    color: #42474c;
+    width: 75.47px;   
+}
+.dis{
+    display: inline-flex;
+} 
+.ms{
+    margin-left: 25rem;
+}
+.butn{
+    width: 180.8px;
+    height: 44.8px;
+    margin-left: 32px;
+    margin-top: 7px;
+    background-color: #008060;
+    color: aliceblue;
+    border-radius: 4px;
+    border:2px solid #008060;
+    text-align: center;
+    font: 21.25px;
+    font-weight: bold;
+}
