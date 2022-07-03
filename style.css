@@ -224,6 +224,61 @@ margin-left: 11rem
     width: 40px;
    margin-bottom: 8px;
 }
+.sec2{
+    background-color:#ffffff;
+    padding: 120px 0px;
+    font-size: 20px;
+    color: #6b7177;
+    align-items: center;
+}
 .main4{
     padding: 0px 77.789px;
+    color: #6b7177;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.with{
+    margin: 0px 175.05px 90px 175.07px;
+    text-align: center;
+    font-size: 20px;
+    color: #6b7177;
+}
+.y{
+    color: #212326;
+    font-size: 50px;
+    margin: 0px 0px 15px;
+}
+.one{
+    font-size: 25px;
+    margin: 0px 0px 25px;
+    color: #6b7177; 
+    text-align: center;
+}
+.sells{
+    padding: 0px 92.89px;
+    font-size: 20px;
+    color: #6b7177;
+    align-items: center;
+    display: inline-flex;
+} 
+.use{
+    margin: 0px 0px 56.7px 90px;
+    padding: 0px 96px 0px 0px;
+}
+.evr{
+   padding: 0px 0px 22.5px;
+   font-size: 37.5px;
+   color: #212326;
+}
+.pro{
+    font-size: 20px;
+    color: #6b7177;
+} 
+.div1{
+    color: #004c3f;
+    text-decoration: none;
+}
+.div1:hover{
+    color: #004c3f;
+    transform: scale(1.05);
 }
