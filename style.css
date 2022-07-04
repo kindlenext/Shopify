@@ -22,7 +22,7 @@ nav{
     color: #42474c;
 }
 .pic{ 
-   margin: 0px 50px;
+   margin: 0px 40px;
 }
 .navbar{
     display: flex;
@@ -35,7 +35,7 @@ nav ul{
 }
 nav ul li{
     display: inline-block; 
-    margin: 0px 10px;
+    margin: 0px 15px;
 }
 nav ul li a{
     text-decoration: none;
@@ -280,5 +280,13 @@ margin-left: 11rem
 }
 .div1:hover{
     color: #004c3f;
-    transform: scale(1.05);
+    /* transform: scale(1.05); */
+    /* position: absolute;
+    right: 0.5px;  */
+}
+.uvas{
+    margin: 0px 92.6px;
+    font-size: 20px;
+    color: #6b7177;
+    display: inline-flex;
 }
