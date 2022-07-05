@@ -151,7 +151,7 @@ margin-left: 11rem
 }
 .anc{
     padding: 0px 24px 0px 0px;
-    font-size: 20px;
+    font-size: 22.5px;
     font-weight: bold;
     color: #ffffff;
     text-decoration: none;
@@ -277,6 +277,7 @@ margin-left: 11rem
 .div1{
     color: #004c3f;
     text-decoration: none;
+    font-size: 22.5px;
 }
 .div1:hover{
     color: #004c3f;
@@ -290,3 +291,29 @@ margin-left: 11rem
     color: #6b7177;
     display: inline-flex;
 }
+.own{
+    margin: 0px 0px 75px;
+    font-size: 20px;
+    color: #6b7177;
+}
+.han{
+    padding: 0px 18px;
+    font-size: 20px;
+    color: #6b7177;
+    width: 901px;
+}
+.where{
+    margin: 0px 0px 32px;
+    font-size: 38.5px;
+    color: #212326;
+}
+.mil{
+    margin: 0px 0px 32px;
+    font-size: 30px;
+    color: #212326;
+}
+ .canv{
+    vertical-align: middle;
+    width: 1176px;
+    height: 1176px; 
+ }
