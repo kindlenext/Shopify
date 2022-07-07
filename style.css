@@ -383,3 +383,13 @@ margin-left: 11rem
  .h{
     align-items: center;
  }
+ .logs{
+    margin: 0px -16px -32px;
+    padding: 64px 0px 0px;
+ }
+ .list{
+    margin:0px 16px 32px;
+ }
+ .l{
+    margin: 0px 13.78px;
+ }
