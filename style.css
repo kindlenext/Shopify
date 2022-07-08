@@ -329,7 +329,7 @@ margin-left: 11rem
  .d{
     color: #ffffff;
     font-size: 37.5px;
-    margin: 0px 0px 60px 20px;
+    margin: 0px 0px 62px 20px;
     width: 495px;
     height: 263px;
     font-weight: bold;
@@ -339,6 +339,7 @@ margin-left: 11rem
     text-align: center;
     align-items: center;
     vertical-align: middle; 
+    /* height: 550px; */
  }
  .e{
     font-size: 25px;
@@ -383,9 +384,13 @@ margin-left: 11rem
  .h{
     align-items: center;
  }
+ .v{
+    display: list-item;
+ }
  .logs{
     margin: 0px -16px -32px;
     padding: 64px 0px 0px;
+    display: flex;
  }
  .list{
     margin:0px 16px 32px;
