@@ -153,7 +153,7 @@ margin-left: 11rem
     padding: 0px 24px 0px 0px;
     font-size: 22.5px;
     font-weight: bold;
-    color: #ffffff;
+    color: #004c3f;
     text-decoration: none;
 } 
 .anc:hover{
@@ -169,6 +169,9 @@ margin-left: 11rem
     display: inline-flex;
     margin-top: 72.89px;
     gap: 1rem;
+}
+.fil{
+    display: flex;
 }
 .fd{
     font-size: 17.5px;
@@ -227,6 +230,13 @@ margin-left: 11rem
 .sec2{
     background-color:#ffffff;
     padding: 120px 0px;
+    font-size: 20px;
+    color: #6b7177;
+    align-items: center;
+}
+.sec22{
+    background-color: #fbf7ed;
+    /* padding: 120px 0px; */
     font-size: 20px;
     color: #6b7177;
     align-items: center;
@@ -397,4 +407,43 @@ margin-left: 11rem
  }
  .l{
     margin: 0px 13.78px;
+ }
+ .ll{
+    padding: 0px 18px;
+    width:700px;
+    display: flex;
+ }
+ .get{
+    margin: 0px 0px 15px;
+    font-size: 50px;
+    color: #212326;
+    width: 566.9px;
+ } 
+ .sup{
+    margin: 0px 0px 15px;
+    font-size: 22.5px;
+    color: #212326;
+ }
+ .p{
+    display: inline-flex;
+ }
+ .con{
+    margin: 0px 0px 20px;
+    font-size: 20px;
+    color: #6b7177;
+ }
+ .tac{
+    margin: 0px 0px 56.5px; 
+    padding: 0px 18px;  
+ }
+ .div11{
+    color: #004c3f;
+    text-decoration: none;
+    font-size: 20px;
+ }
+ .pix1{ 
+    margin: 0px 0px 0px 0px;
+ }
+ .wi{
+    width: 334px;
  }
