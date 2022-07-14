@@ -506,13 +506,14 @@ margin-left: 11rem
  }
  .asa{ 
     background-color: #004c3f; 
-    border: 0px 0px  0.3px 0px solid #fbf7ed;  
+      
  }
 .ull{
     list-style: none;
     color: #ffffff;
     font-size: 20px;
     background-color: #004c3f;
+    border-bottom: 0.1px solid #6b7177;
 }
 .secc1{
     background-color: #004c3f;
@@ -520,16 +521,21 @@ margin-left: 11rem
     padding: 0px 77.7px;
 }
 .hari{
-    padding: 0px 18px;
+    padding: 5px 18px;
     color: #6b7177;
     background-color: #004c3f;
     margin: 0px 0px 10.9px;
-    font-weight: bold;
+    font-weight: bold; 
 }
 .marxi{ 
     font-size: 17.5px;
     padding: 0px 55px;
     color: #ffffff;
+}
+.loki{
+    display: flex; 
+    color: #6b7177;
+    background-color: #004c3f;
 }
 .none{
     list-style: none;
